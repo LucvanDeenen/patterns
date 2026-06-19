@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimUDuck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b0cb12411f098ebb5e610d8c5ae68657960659e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimUDuck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimUDuck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
