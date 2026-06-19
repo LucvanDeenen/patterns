@@ -1,0 +1,6 @@
+<Solution>
+    <Project Path="AbstractFactoryPattern/AbstractFactoryPattern.csproj" />
+    <Project Path="AdapterPattern/AdapterPattern.csproj" />
+    <Project Path="SimUDuck/SimUDuck.csproj" />
+    <Project Path="SingletonPattern/SingletonPattern.csproj" />
+</Solution>
