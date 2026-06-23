@@ -85,7 +85,7 @@ Used for instantiating objects.
     ```
 
 
-#### Abstract Factory
+#### [Abstract Factory](../AbstractFactoryPattern/README.md)
   - ELI5: Like having different factories for different countries. A Chinese factory makes things differently than a German factory, but both make the same products.
   - Use Cases: Cross-platform UI frameworks, theme systems, database systems with different vendors, payment gateway integrations
   - Description: Similar to the factory but this interfaces the factory to give implementations based on an another initializer, initialization stage.
