@@ -3,6 +3,9 @@
         <File Path=".gitignore" />
         <File Path="README.md" />
     </Folder>
+    <Folder Name="/Docs/">
+        <File Path="docs/Training.md" />
+    </Folder>
     <Project Path="AbstractFactoryPattern/AbstractFactoryPattern.csproj" />
     <Project Path="AdapterPattern/AdapterPattern.csproj" />
     <Project Path="SingletonPattern/SingletonPattern.csproj" />
