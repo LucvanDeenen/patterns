@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lvdeenen\\repos\\trainings\\DesignPatternsTraining\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
+      "projectUniqueName": "C:\\Users\\lvdeenen\\repos\\trainings\\patterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
       "projectName": "AbstractFactoryPattern",
-      "projectPath": "C:\\Users\\lvdeenen\\repos\\trainings\\DesignPatternsTraining\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
+      "projectPath": "C:\\Users\\lvdeenen\\repos\\trainings\\patterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
       "packagesPath": "C:\\Users\\lvdeenen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lvdeenen\\repos\\trainings\\DesignPatternsTraining\\AbstractFactoryPattern\\obj\\",
+      "outputPath": "C:\\Users\\lvdeenen\\repos\\trainings\\patterns\\AbstractFactoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lvdeenen\\AppData\\Roaming\\NuGet\\NuGet.Config"

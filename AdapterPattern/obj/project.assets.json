@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lvdeenen\\repos\\trainings\\DesignPatternsTraining\\AdapterPattern\\AdapterPattern.csproj",
+      "projectUniqueName": "C:\\Users\\lvdeenen\\repos\\trainings\\patterns\\AdapterPattern\\AdapterPattern.csproj",
       "projectName": "AdapterPattern",
-      "projectPath": "C:\\Users\\lvdeenen\\repos\\trainings\\DesignPatternsTraining\\AdapterPattern\\AdapterPattern.csproj",
+      "projectPath": "C:\\Users\\lvdeenen\\repos\\trainings\\patterns\\AdapterPattern\\AdapterPattern.csproj",
       "packagesPath": "C:\\Users\\lvdeenen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lvdeenen\\repos\\trainings\\DesignPatternsTraining\\AdapterPattern\\obj\\",
+      "outputPath": "C:\\Users\\lvdeenen\\repos\\trainings\\patterns\\AdapterPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lvdeenen\\AppData\\Roaming\\NuGet\\NuGet.Config"

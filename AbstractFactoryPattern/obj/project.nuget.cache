@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BzVJT6C0Ugg=",
+  "dgSpecHash": "Y7DDvAAeGqs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lvdeenen\\repos\\trainings\\DesignPatternsTraining\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
+  "projectFilePath": "C:\\Users\\lvdeenen\\repos\\trainings\\patterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

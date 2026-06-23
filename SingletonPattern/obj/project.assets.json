@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lvdeenen\\repos\\trainings\\DesignPatternsTraining\\SingletonPattern\\SingletonPattern.csproj",
+      "projectUniqueName": "C:\\Users\\lvdeenen\\repos\\trainings\\patterns\\SingletonPattern\\SingletonPattern.csproj",
       "projectName": "SingletonPattern",
-      "projectPath": "C:\\Users\\lvdeenen\\repos\\trainings\\DesignPatternsTraining\\SingletonPattern\\SingletonPattern.csproj",
+      "projectPath": "C:\\Users\\lvdeenen\\repos\\trainings\\patterns\\SingletonPattern\\SingletonPattern.csproj",
       "packagesPath": "C:\\Users\\lvdeenen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lvdeenen\\repos\\trainings\\DesignPatternsTraining\\SingletonPattern\\obj\\",
+      "outputPath": "C:\\Users\\lvdeenen\\repos\\trainings\\patterns\\SingletonPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lvdeenen\\AppData\\Roaming\\NuGet\\NuGet.Config"
