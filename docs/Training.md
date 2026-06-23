@@ -196,7 +196,7 @@ Used for instantiating objects.
     print(original.radius)  // Still 5
     ```
 
-#### Singleton
+#### [Singleton](../SingletonPattern/README.md)
   - ELI5: There's only one president in a country. Everyone talks to the same president, not different presidents.
   - Use Cases: Database connections, logging systems, configuration managers, thread pools, caching systems
   - Description: Ensure a single class instance of an object that is used / returned on usage.

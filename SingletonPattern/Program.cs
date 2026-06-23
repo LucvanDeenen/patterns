@@ -1,27 +1,16 @@
-﻿public class Utils
-{
-    private static int value;
+﻿using Singleton;
 
-    public static void AddOne()
-    {
-        if (value == null)
-        {
-            init();
-        }
-        
-        value++;
-    }
-    
-    private static void init()
-    {
-        value = 0;
-    }
+MockDbContext context;
+try
+{
+    // This will throw an exception
+    context = DatabaseUtil.GetInstance();
+}
+catch (Exception e)
+{
+    Console.WriteLine("Caught Exception: " + e.Message);
 }
 
-public static  class Program
-{
-    public static void Main()
-    {
-        Utils.AddOne();
-    }
-}
+DatabaseUtil.Init();
+context = DatabaseUtil.GetInstance();
+context.Read(); // This will work now
