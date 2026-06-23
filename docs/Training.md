@@ -122,7 +122,7 @@ Used for instantiating objects.
     ```
 
 
-#### Builder
+#### [Builder](../BuilderPattern/README.md)
   - ELI5: Building a sandwich step-by-step: first the bread, then cheese, then ham, then lettuce. You don't dump everything in at once.
   - Use Cases: Complex object creation (HTTP requests, SQL queries), UI component configuration, document builders, configuration objects
   - Description: Construction of code is done by a builder subclass which introduces the initializers of the properties as opposed to exposing the Getters, Setters. Director is sometimes included to determine order of operations.
