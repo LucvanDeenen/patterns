@@ -1,0 +1,17 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# IDE/editor settings
+.vs/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
