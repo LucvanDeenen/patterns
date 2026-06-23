@@ -1,4 +1,5 @@
 # Design Patterns Training (C# / .NET 10)
+[notes](/docs/Training.md)
 
 This repository contains small example implementations of common design patterns in C# using .NET 10.
 
