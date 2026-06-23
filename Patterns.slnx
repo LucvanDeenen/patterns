@@ -8,5 +8,6 @@
     </Folder>
     <Project Path="AbstractFactoryPattern/AbstractFactoryPattern.csproj" />
     <Project Path="AdapterPattern/AdapterPattern.csproj" />
+    <Project Path="FactoryPattern/FactoryPattern.csproj" />
     <Project Path="SingletonPattern/SingletonPattern.csproj" />
 </Solution>

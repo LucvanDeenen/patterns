@@ -53,10 +53,10 @@ OOP 4 pillars;
 ### Creational
 Used for instantiating objects.
 
-#### Factory
+#### [Factory](../FactoryPattern/README.md)
   - ELI5: Imagine a toy factory. Instead of making toys yourself, you ask the factory "I want a robot" and it builds it for you.
   - Use Cases: Database connections, UI element creation, document/file type handling, plugin/driver instantiation
-  - Description: Decouple the creation and instantiation of objects by relying a (static) initializer and the products that it sets up. Where we rely on the interface that are used on the products.
+  - Description: Centralizes object creation logic and returns products through a common interface, so client code can work with abstractions instead of concrete implementations.
   - Example:
     ```
     interface Animal { makeSound() }
