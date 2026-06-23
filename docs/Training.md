@@ -236,7 +236,7 @@ Used for instantiating objects.
 ### Structural
 Explains how to assemble objects and classes in larger structures. For example how they are related.
 
-#### Adapter
+#### [Adapter](../AdapterPattern/README.md)
   - ELI5: A USB adapter lets you plug an old connector into a new USB port. It translates between the two different types.
   - Use Cases: Integrating legacy systems with new code, library compatibility, hardware drivers, third-party API integration
   - Description: Allows incompatible interfaces to collaborate (wrapper).
