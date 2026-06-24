@@ -84,7 +84,6 @@ Used for instantiating objects.
     print(animal.makeSound())  // "Woof!"
     ```
 
-
 #### [Abstract Factory](../AbstractFactoryPattern/README.md)
   - ELI5: Like having different factories for different countries. A Chinese factory makes things differently than a German factory, but both make the same products.
   - Use Cases: Cross-platform UI frameworks, theme systems, database systems with different vendors, payment gateway integrations
@@ -120,7 +119,6 @@ Used for instantiating objects.
     factory = getPlatformFactory()  // Returns appropriate factory
     button = factory.createButton()
     ```
-
 
 #### [Builder](../BuilderPattern/README.md)
   - ELI5: Building a sandwich step-by-step: first the bread, then cheese, then ham, then lettuce. You don't dump everything in at once.
