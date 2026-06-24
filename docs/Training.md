@@ -161,7 +161,7 @@ Used for instantiating objects.
     print(house.describe())
     ```
 
-#### Prototype
+#### [Prototype](../PrototypePattern/README.md)
   - ELI5: You have a perfect drawing. Instead of drawing it again from scratch, you photocopy it.
   - Use Cases: Undo/redo functionality, cloning game entities, copying complex configuration objects, creating similar objects with variations
   - Description: Creates a copy (not reference) of an existing object.

@@ -10,5 +10,6 @@
     <Project Path="AdapterPattern/AdapterPattern.csproj" />
     <Project Path="BuilderPattern/BuilderPattern.csproj" />
     <Project Path="FactoryPattern/FactoryPattern.csproj" />
+    <Project Path="PrototypePattern/PrototypePattern.csproj" />
     <Project Path="SingletonPattern/SingletonPattern.csproj" />
 </Solution>
