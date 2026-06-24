@@ -270,7 +270,7 @@ Explains how to assemble objects and classes in larger structures. For example h
     result = processor.processPayment({card: "1234", amount: 99.99})
     ```
 
-#### Bridge
+#### [Bridge](../BridgePattern/REA`DME.md)
   - ELI5: A remote control is separate from the TV. You can have different remotes (abstraction) and different TVs (implementation) that work together.
   - Use Cases: UI abstractions across different platforms, graphics rendering systems, database abstraction layers
   - Description: Decouples an abstraction from its implementation by creating an independent hierarchy, allowing them to vary separately.
