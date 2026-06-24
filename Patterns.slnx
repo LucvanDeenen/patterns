@@ -3,15 +3,19 @@
         <File Path=".gitignore" />
         <File Path="README.md" />
     </Folder>
-    <Folder Name="/Creational/">
+    <Folder Name="/DesignPatterns/" />
+    <Folder Name="/DesignPatterns/Behavioral/" />
+    <Folder Name="/DesignPatterns/Creational/">
         <Project Path="AbstractFactoryPattern/AbstractFactoryPattern.csproj" />
         <Project Path="BuilderPattern/BuilderPattern.csproj" />
         <Project Path="FactoryPattern/FactoryPattern.csproj" />
         <Project Path="PrototypePattern/PrototypePattern.csproj" />
         <Project Path="SingletonPattern/SingletonPattern.csproj" />
     </Folder>
+    <Folder Name="/DesignPatterns/Structural/">
+        <Project Path="AdapterPattern/AdapterPattern.csproj" />
+    </Folder>
     <Folder Name="/Docs/">
         <File Path="docs/Training.md" />
     </Folder>
-    <Project Path="AdapterPattern/AdapterPattern.csproj" />
 </Solution>
