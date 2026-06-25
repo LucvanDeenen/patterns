@@ -743,7 +743,7 @@ How to provide loose coupling and how the different objects communicate.
       print(iterator.next())
     }
     ```
-  
+
 #### Mediator
   - ELI5: A chatroom is a mediator. People in the chatroom don't message each other directly; they send messages to the chatroom which broadcasts them.
   - Use Cases: Chat applications, air traffic control, GUI component coordination, event aggregation, dialog boxes

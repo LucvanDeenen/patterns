@@ -1,4 +1,5 @@
-﻿
+﻿using System;
+
 public abstract class Car
 {
     public string Color { get; set; }

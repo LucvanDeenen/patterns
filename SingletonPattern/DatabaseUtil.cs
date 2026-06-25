@@ -1,3 +1,5 @@
+using System;
+
 namespace Singleton;
 
 public static class DatabaseUtil
