@@ -313,7 +313,7 @@ Explains how to assemble objects and classes in larger structures. For example h
     print(remote.setChannel(5))
     ```
 
-#### Composite
+#### [Composite](../CompositePattern/README.md)
   - ELI5: A folder can contain files OR other folders. You can treat a single file and a folder full of files the same way.
   - Use Cases: File systems, UI component hierarchies, organizational structures, menu systems, document structures (DOM) 
   - Description: Composes objects into tree structures to represent part-whole hierarchies, allowing clients to treat individual objects and compositions uniformly.
@@ -362,7 +362,7 @@ Explains how to assemble objects and classes in larger structures. For example h
     print("Total size: " + root.getSize())
     ```
 
-#### Decorator
+#### [Decorator](../DecoratorPatter/README.md)
   - ELI5: A plain coffee is a coffee. Add whipped cream, it's still a coffee but fancier. Add chocolate syrup too, even fancier. You keep adding stuff without changing the coffee itself.
   - Use Cases: I/O streams, GUI components enhancement, text formatting, logging wrappers, feature toggles
   - Description: Attaches additional responsibilities to an object dynamically, providing a flexible alternative to subclassing.
@@ -408,7 +408,7 @@ Explains how to assemble objects and classes in larger structures. For example h
     print(coffee.cost())  // 4.25
     ```
 
-#### Facade
+#### [Facade](../FacadePattern/README.md)
   - ELI5: A car has many complex systems inside (engine, transmission, etc.) but you just press the gas pedal. The car hides all the complexity.
   - Use Cases: API wrappers, library abstractions, subsystem simplification, framework integration, third-party service integration
   - Description: Provides a unified, simplified interface to a set of interfaces in a subsystem.
@@ -448,7 +448,7 @@ Explains how to assemble objects and classes in larger structures. For example h
     result = facade.bookRoom(["2024-01-01", "2024-01-05"], "user@email.com", 500)
     ```
 
-#### Flyweight
+#### [Flyweight](../FlyweightPattern/README.md)
   - ELI5: Instead of each character in a book having its own font object, all 'A's share one font object. Saves memory!
   - Use Cases: Text rendering systems, game object pooling, cache systems, large datasets with repeating values, texture management
   - Description: Uses sharing to support large numbers of fine-grained objects efficiently by sharing common state.
@@ -493,7 +493,7 @@ Explains how to assemble objects and classes in larger structures. For example h
     print(char1.font === char2.font)  // true - same font object
     ```
 
-#### Proxy
+#### [Proxy](../ProxyPattern/README.md)
   - ELI5: You call your assistant instead of the CEO directly. Your assistant controls who gets to talk to the CEO and what messages get through.
   - Use Cases: Lazy loading, access control, logging/auditing, caching, remote objects (RPC)
   - Description: Provides a surrogate or placeholder for another object to control access to it.

@@ -15,6 +15,7 @@
     <Folder Name="/DesignPatterns/Structural/">
         <Project Path="AdapterPattern/AdapterPattern.csproj" />
         <Project Path="BridgePattern/BridgePattern.csproj" />
+        <Project Path="CompositePattern/CompositePattern.csproj" />
     </Folder>
     <Folder Name="/Docs/">
         <File Path="docs/Training.md" />
